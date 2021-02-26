@@ -39,7 +39,7 @@ There exist many variations, but all share the same idea. We will talk about thi
 This one is more complex.
 
 ## Pit People-like
-![Image](PitPeople.png)
+![PitPeople.png](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/PitPeople.png)
 
 # What makes a turn based combat BAD?
  - It is extremly boring
