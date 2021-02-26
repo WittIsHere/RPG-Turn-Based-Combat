@@ -71,7 +71,7 @@ I will just mention and explain them briefly here, when designing our game we wi
 All that is related to the fight, but that is under the knowledge of the player. It can be prepared in advance (like what attacks, or what party are you using) or you will have to discover it yourself (monster attacks, weakness, stats, how to approach the fight...)
 
 - Entities stats (not HP and MP, but damage, dodge, speed, weakness, types of attacks...)
-- 
+- How is it supposed to play? Do you have different strategies?
 
 
 # Loops
@@ -80,6 +80,45 @@ This is another layer to the combat, and specially usefull for programmers.
 The turn based combat has several loops.
 
 # Designing a simple turn based combat.
+
+I divided the creation of a turn based combat into 5 simple steps.
+
+1 - Unerstand what rol does the combat take into your game. Probably for this asignment it will be one of the game pilars, since its the main challenge that the player will have.
+2 - Develop the entities: Playable characters and Enemies (mobs and bosses)
+You have to define how do you want the player to approach the challenge, do you have classes? do you have to form a party?
+Also, what stats o they have, and wich ones can the player interact with.
+What attacks do they have?
+3 - Create AI intelligence
+4 - Design the UI and the art style
+5 - Understand the different loops inside the game
+6 - Think of at least one original mechanic.
+
+# Case studies
+## Pokemon
+
+## Octopath traveler
+
+## Darkest Dungeon
+
+## Undertale
+
+# Final Tips
+
+# Extra resources
+
+Downloable helper.
+
+Presentation.
+
+
+# Bibliography
+
+
+
+
+
+
+
 
 
 
