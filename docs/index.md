@@ -215,21 +215,29 @@ Downloable helper.
 Videos
 
 [Abstraction and Turn-based Combat](https://www.youtube.com/watch?v=fCPAmwbzylc)
+
 [Turn Based RPG's are Boring](https://www.youtube.com/watch?v=9nOAnY3YYrA)
+
 [Turn-Based Combat Doesn't Suck](https://www.youtube.com/watch?v=5cTNDFxBSdk)
+
 [More Engaging Turn-Based Combat in RPGs](https://www.youtube.com/watch?v=0Rebci_7ABQ)
+
 [Top 10 Innovative Turn Based Battle Systems in RPGs](https://www.youtube.com/watch?v=wQbI_rtYNrk)
 
 Forums
 
 [What makes a good turn based combat system?](https://www.reddit.com/r/gamedev/comments/99cnmq/what_makes_a_good_turn_based_combat_system/)
+
 [What are some good ways to make turn-based combat more compelling?](https://www.reddit.com/r/truegaming/comments/ji8m8m/what_are_some_good_ways_to_make_turnbased_combat/)
 
 Articles:
 
 [Turn-Based Combat Is The Best Kind Of Combat](https://kotaku.com/turn-based-combat-is-the-best-kind-of-combat-5990831)
+
 [Turn-based strategy](https://en.wikipedia.org/wiki/Turn-based_strategy)
+
 [Redesigning Turn-Based RPGs](https://medium.com/orangeandjuicy/redesigning-turn-based-rpgs-b8577f93a48f)
+
 [12 ways to improve turn-based RPG combat systems](https://www.gamasutra.com/blogs/CraigStern/20130411/190332/12_ways_to_improve_turnbased_RPG_combat_systems.php)
 
 
