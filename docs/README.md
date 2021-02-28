@@ -1,3 +1,6 @@
+Created by Aram Galarza Roca ([@WittIsHere](https://github.com/WittIsHere)) for Project II
+Video Game Design and Development, under the supervisition of Ramon Santamaría ([@raysan5](https://github.com/raysan5))
+
 # Introduction
 Turn based combat (TBC for abreviature) is how everything started. This simple way of resolving combats, due to hardware limtations, was seen everywhere, specially in RPG games.
 Nowdays it may be seen as an outdated combat, only played by nostalgics, but I still think it is one of the most satisfactory and pleasant experiences. Having time to think, developing original strategies and expanding the world. 
