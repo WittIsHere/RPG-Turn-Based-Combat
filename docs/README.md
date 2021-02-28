@@ -41,12 +41,12 @@ Pokemon, Octopath traveler, Final Fantasy (first games), Chrono Trigger and many
 I believe that this style has to main variants. Where **positioning** matters or not.
 
 Example: Chrono Trigger
-
+![ChronoTrigger](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/ChronoTrigger.png?raw=true)
 Here we can see that the pilars exist. There are turns, attacks, resources, players and parties, and enemies and bosses.
 But The initial positioning and approach to the fight will have impact of the fight. For example, maybe you have a rogue that gets a bonus if it attacks an enemy from the back. this leads to a new level of mastery, where not only the ecisions inside matter, but also a proper preparation.
 
 Second Style, positioning doesn't matter. Example: Sinjid: Shadow of the warrior (Browser game)
-
+![Sinjid](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/Sinjid.png?raw=true)
 
 The battle is like a different space, spearated of anything else. Here you only have to focus on the fight.
 
@@ -55,13 +55,14 @@ There exist many variations, but all share the same idea. We will talk about thi
 
 
 ### Simple and Limited Grid System. Example: Pit People
-![PitPeople.png](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/PitPeople.png)
+![PitPeople](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/PitPeople.png?raw=true)
+
 
 This is a bit more sofisticated. Using a grid system, you also have to hiunk about formations and tactics. Maybe you want the mages and archers in the backline, protected by warriors and tanks. You also have to move your units throguh the battlefield. But the space is limited, there is a set number of tiles where you can go, and no more. All the necessary information i on the screen. It is usually seen in 2D or 2.5D style, and it is more approachable than the next system.
 
 
 ### Complex Grid System. Example: Xcom
-
+![Xcom2](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/Xcom2.png?raw=true)
 
 This one is more complex. It is also grid based, but in a much larger scale. You do not know what is out there, the information that you have is very lmited, and you need to advance into an unknown space. Actually the mechanics are very very similar to the style mentioned before, but its complexity is usually much higher. Fights will take a lot of time.
 
@@ -127,7 +128,7 @@ End of External Loop.
 I divided the creation of a turn based combat into a few steps
 This is a draft, but you will find more detailed explanation in the adjunct pdf.
 
-**1 - Understand what rol does the combat take into your game. Probably for this asignment it will be one of the game pilars, since its the main challenge that the player will have. **
+**1 - Understand what rol does the combat take into your game. Probably for this asignment it will be one of the game pilars, since its the main challenge that the player will have.**
 
 This is very important, because maybe you prefer fast combats to let the history move foward and don't tire the player too much. Or maybe you want a super complex combat, where the player will spend a lot of time thinking. It is up to you.
 
@@ -175,23 +176,22 @@ Think about the style, will you do detailed animations for the attacks? etc...
 
 # Case studies
 ### Pokemon
-
+![Pokemon1](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/Pokemon2.png?raw=true)
 
 Pokemon Is a very interesting game. I think that the exit of its combat is due fo three factors: First, every wild encounter is thrilling, because you might want to capture him. Second, the types system is awesome! It also makes you think about building a party of balanced pokemons. And third, being able to swap between pokemons, it is probably the most rewarding mechanic when mastered, because it has infinite combinations with it.
 
 ### Octopath traveler
+![Octopath](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/Octopath1.png?raw=true)
 
 Probably already a classic. Not only because its beautiful graphics, but also because the depth of his world and characters. I find that there has been many interesting choces, and will talk about thee of them. First, each character is unique in its own way, and this is seen in the combat, because each character will have an special combat, only avaulabee to him (summon NPCs, capturing enemies...), this leads to variety and more depth when bulding the party. Second, not being able to see the enemies health or weakness is very thought. You will need to learn it, and that means practice and error. Overextending when the enemy is still in safe zone can be devastating, or retiring when the opposite. The third factor are the Impulse Points, each turn your characters will gain an extra point, and when using them those will empower the next attack, it is a cool mechanic that adds another layer of epicness and complexity to the combat.
 
 ### Darkest Dungeon
-
+![Darkest](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/DarkestDungeon.png?raw=true)
 
 I want to mention two variables of this game. First is STRESS. It is a great example of how an idea (making a game as dark and horrorific as possible) leads to creating a new mechanic (so, step 1 and 2). Second, the pary's movement and positioning. Certain attacks will only be available from certain positions, and those positions also influence the roles (ususally tanks and fighters will go first, and supports and dps back).
 
-
-
 ### Undertale
-
+![Undertale2](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/Undertale2.png?raw=true)
 
 Ah, Undertale. Very unique and carismatic game. I want to analyze two thing. First, the introduction of many extra options in the combat. You are not only able to attack, efent, trun and use item. But also you can talk with your enemy, or even pet it, or give it a hug, or compliment it. This is super refreshing, and feels very rewarding sometimes.
 Second, the Quick time events that happen in the encunters. Usually when an enemy attacks you, one of thosequick time events will apear (that is you in a mini bullet hell). They are divided into two categories. Mobs and Bosses. For mobs you will have to train the basics, and improvise because everything will be randomized.  But bosses will usually have a set of patters, you will not know wich one they will use, but you will be able to learn them and adapt.
