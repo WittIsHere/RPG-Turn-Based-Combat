@@ -32,6 +32,8 @@ Not gonna talk a lot about this subject. But the polemy is here.
 The main two points of view are:
 1. Turn based combat is enjoyable. It is an interesting puzzle and since you are not limited by time, you can enjoy a more slow pace. Decisions have real combat, and a mistake can lead to failure. It is easy to learn, and for all publics. 
 2. Turn based combat is boring. It is an outdated and therefore obsolete type of combat, it was great in the beggining, when games where limited by technology, but no longer enjoyable in the new generations. TBC is a type of combat that must be avoided.
+3. 
+![Poll](https://github.com/WittIsHere/RPG-Turn-Based-Combat/blob/main/docs/images/Poll.png?raw=true)
 
 What do you think?
 
