@@ -93,6 +93,33 @@ This one is more complex. It is also grid based, but on a much larger scale. You
 - It innovates in some way
 
 # Elements
+Here we will count and analyze every standard element in a turn based combat. Maybe we will not use all of them, or will create something new. But having them as a basis will probably be useful when making other choices. Like someone said, you need to know the rules first if you want to break any of them.
+
+Lets differentiate between two types: What we see, and what we don't:
+
+**What we see:**
+This is the information that we have at all times in the screen. We could consider most of it UI.
+
+ - Player's characters and enemies (entities)
+Of course we need those, it is the main visual tool that we have. We can identify the types of enemies, how many etc. And for the allies, which one is currently playing.
+ - For each ally, it's current stats (health, mana and usually experience)
+Vital information, that lets us know what should we do every turn.
+ - Turn bar
+Not all games will have one, but it's use has been quite popular. It lets us to determine the order of entities.
+ - Options panel
+What can you do in your turn? The planel has all the options, and often brings extra information.
+ - Some extra information about the enemies (maybe state, or weakness)
+Maybe one of them is dazed, or sleeping. Maybe because it is a fire type, you prefer attacking with water...
+
+**What we do not see:**
+What else is there?
+
+ - Entities stats (speed, damage, resistances, etc...)
+There are many variables that we do not have access in the combat, but that affect it. 
+ - Escape chance
+You do not know it, it is a risk.
+ - For the skills, you will only have the name, but should remember them how they work.
+ - Attached items
 
 # Loops
 This is another layer of the turn based combat, and especially useful for programmers.
@@ -253,5 +280,5 @@ Presentation.
 *Thank you very much for your attention!!*
 
 
-                                                                                                                                                                      *Witt*
+*Witt*
 
