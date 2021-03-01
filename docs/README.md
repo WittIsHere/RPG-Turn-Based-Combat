@@ -243,7 +243,7 @@ The game flow should be balanced, not a lot of fights, but also not too few. Kee
 
 ## Extra resources
 
-Presentation.
+[Presentation](https://drive.google.com/file/d/1pRUFuE33pyPBrg_1LMbkbQx4QVICi3kK/view?usp=sharing) Here it is the preentation used in class.
 
 # Webgraphy
 
