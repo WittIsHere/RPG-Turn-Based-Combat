@@ -184,7 +184,7 @@ Also, what stats do they have, and which ones can the player interact with.
 
 There are a lot of possible questions, but you are the only one who will answer them.
 
-**5 - Create the Options That those entities will have available. Attacks, Magic, Consumable items etc...**
+**5 - Create the Options that those entities will have available. Attacks, Magic, Consumable items etc...**
 
 This is core. You not only need to create those, but also think about how to balance them.
 Between the 4 and 5, it will be a continuous loop until you have a satisfactory system.
@@ -245,7 +245,7 @@ The game flow should be balanced, not a lot of fights, but also not too few. Kee
 
 Presentation.
 
-# Bibliography
+# Webgraphy
 
 *Videos*
 
